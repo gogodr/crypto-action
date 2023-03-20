@@ -1,3 +1,4 @@
+(Disclaimer: This software was made 80% by ChatGPT)
 # Crypto Action
 This is a simple crypto trading indicator function that uses financial indicators to suggest whether to buy, sell or hold a cryptocurrency.
 
