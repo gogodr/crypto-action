@@ -35,6 +35,7 @@ Simply execute the following command:
 npm start
 ```
 This will retrieve the past week's hourly prices for BTC from Binance using the API and make a suggestion to buy, sell, or hold based on the algorithm.
+
 ![image](https://user-images.githubusercontent.com/2740936/226249471-0042993c-e349-49c8-8977-96adae96f730.png)
 
 
